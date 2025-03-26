@@ -1,0 +1,10 @@
+C:\Users\zehra\source\repos\Pizza Sipariş Ekranı\Pizza Sipariş Ekranı\obj\Debug\Pizza Sipariş Ekranı.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\Pizza Sipariş Ekranı\Pizza Sipariş Ekranı\obj\Debug\Pizza_Sipariş_Ekranı.Form1.resources
+C:\Users\zehra\source\repos\Pizza Sipariş Ekranı\Pizza Sipariş Ekranı\obj\Debug\Pizza_Sipariş_Ekranı.Properties.Resources.resources
+C:\Users\zehra\source\repos\Pizza Sipariş Ekranı\Pizza Sipariş Ekranı\obj\Debug\Pizza Sipariş Ekranı.csproj.GenerateResource.cache
+C:\Users\zehra\source\repos\Pizza Sipariş Ekranı\Pizza Sipariş Ekranı\obj\Debug\Pizza Sipariş Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\Pizza Sipariş Ekranı\Pizza Sipariş Ekranı\bin\Debug\Pizza Sipariş Ekranı.exe.config
+C:\Users\zehra\source\repos\Pizza Sipariş Ekranı\Pizza Sipariş Ekranı\bin\Debug\Pizza Sipariş Ekranı.exe
+C:\Users\zehra\source\repos\Pizza Sipariş Ekranı\Pizza Sipariş Ekranı\bin\Debug\Pizza Sipariş Ekranı.pdb
+C:\Users\zehra\source\repos\Pizza Sipariş Ekranı\Pizza Sipariş Ekranı\obj\Debug\Pizza Sipariş Ekranı.exe
+C:\Users\zehra\source\repos\Pizza Sipariş Ekranı\Pizza Sipariş Ekranı\obj\Debug\Pizza Sipariş Ekranı.pdb
